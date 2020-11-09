@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0CE2-9E59
+
+ Directory of C:\Users\Rusa\Desktop\NewGIT
+
+09-11-2020  17:26    <DIR>          .
+09-11-2020  17:26    <DIR>          ..
+09-11-2020  17:26                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  786,015,821,824 bytes free
